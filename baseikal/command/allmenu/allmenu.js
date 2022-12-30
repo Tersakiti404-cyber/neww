@@ -7,7 +7,6 @@ const allmenu =  ` 
 ┗━━⊱
 *Game Maker*
 ┏━━⊱
-┣❏rpgmenu
 ┣❏tebak
 ┣❏jadian
 ┗━━⊱
