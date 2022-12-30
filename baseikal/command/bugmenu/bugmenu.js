@@ -156,7 +156,7 @@ Created : 😈 ${botname} 👿
 ┣❏Jadivirtext9 [ Text nya ]
 ┣❏Jadivirtext10 [ Text nya ]
 ┗━━⊱
-[ Contoh Jadijago Haikal ]
+[ Contoh Jadijago Felix ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *BONUS*
 ┏━━⊱
