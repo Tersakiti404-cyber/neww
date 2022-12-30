@@ -1,5 +1,5 @@
 const menu =  ` 
-° Owner  : HW MODS WA
+° Owner  : Fajar Alfarizi
 ° Version : 12
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -34,5 +34,5 @@ const menu =  ` 
 ┣❏ Promote 628xx
 ┣❏ Demote 628xx
 ┗━━⊱
-HW MODS WA`
+DELTA FELIX`
 exports.menu = menu
